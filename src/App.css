@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+#liberary{
+  background-image: url('https://cdn.80.lv/api/upload/meta/18228/images/61d76ec918136/contain_1200x630.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  font-size: 50px;
+  color: rgb(245, 245, 245);
+}
